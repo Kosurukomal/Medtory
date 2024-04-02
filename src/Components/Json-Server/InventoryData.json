@@ -1,0 +1,20 @@
+{
+    "ExistingData": [
+      {
+        "id": "101",
+        "itemname": "Dolo",
+        "description": "fever medicine",
+        "category": " medical",
+        "manufacturer": "cipla",
+        "unitOfMeasure": "box",
+        "unitPrice": "100",
+        "initialQuantity": "100",
+        "expirationDate": "2024-03-13",
+        "suppliers": [
+          "mindtree pharma",
+          "galeria pharma"
+        ],
+        "imageUpload": null
+      }
+             ]
+            }
