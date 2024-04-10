@@ -1,20 +1,72 @@
 {
-    "ExistingData": [
-      {
-        "id": "101",
-        "itemname": "Dolo",
-        "description": "fever medicine",
-        "category": " medical",
-        "manufacturer": "cipla",
-        "unitOfMeasure": "box",
-        "unitPrice": "100",
-        "initialQuantity": "100",
-        "expirationDate": "2024-03-13",
-        "suppliers": [
-          "mindtree pharma",
-          "galeria pharma"
-        ],
-        "imageUpload": null
-      }
-             ]
-            }
+  "ExistingData": [
+    {
+      "id": "2b4d",
+      "itemname": "dolo",
+      "description": "fever",
+      "category": "medical",
+      "manufacturer": "sun pharma",
+      "unitOfMeasure": "box",
+      "unitPrice": "44",
+      "initialQuantity": "66",
+      "expirationDate": "2024-04-18",
+      "imageUpload": null,
+      "Actions": ""
+    },
+    {
+      "id": "4f48",
+      "itemname": "paracetmol",
+      "description": "febvet",
+      "category": "dolo",
+      "manufacturer": "cipla",
+      "unitOfMeasure": "box",
+      "unitPrice": "100",
+      "initialQuantity": "10",
+      "expirationDate": "2024-04-17",
+      "imageUpload": null,
+      "Actions": ""
+    },
+    {
+      "id": "84e9",
+      "itemname": "jjkak",
+      "description": "cipla",
+      "category": "medical",
+      "manufacturer": "345",
+      "unitOfMeasure": "box",
+      "unitPrice": "12",
+      "initialQuantity": "11",
+      "reorderlevel": "11",
+      "expirationDate": "",
+      "imageUpload": null,
+      "Actions": ""
+    },
+    {
+      "id": "72ca",
+      "itemname": "jjkak",
+      "description": "cipla",
+      "category": "medical",
+      "manufacturer": "345",
+      "unitOfMeasure": "box",
+      "unitPrice": "12",
+      "initialQuantity": "11",
+      "reorderlevel": "11",
+      "expirationDate": "",
+      "imageUpload": null,
+      "Actions": ""
+    },
+    {
+      "id": "669a",
+      "itemname": "jjkak",
+      "description": "cipla",
+      "category": "medical",
+      "manufacturer": "345",
+      "unitOfMeasure": "box",
+      "unitPrice": "12",
+      "initialQuantity": "11",
+      "reorderlevel": "11",
+      "expirationDate": "",
+      "imageUpload": null,
+      "Actions": ""
+    }
+  ]
+}
